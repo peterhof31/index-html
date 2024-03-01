@@ -1,0 +1,13 @@
+Laços de repetição 
+Loop {chave}
+"Se o inventário etiver cheio: esvaziar"
+"Se não: não faça nada"
+- Se (if) /Se não (else)
+- Entrada no site de votação 
+Captcha- requisições 
+
+Problema:espaço no inventário 
+Loop {
+ se inventário cheio, faça:
+ esvaziar 
+ se não, não faça nada
